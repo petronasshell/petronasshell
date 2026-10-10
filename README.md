@@ -14,8 +14,13 @@
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-414141?style=flat-the-badge&logo=security&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF69B4?style=flat-the-badge&logo=security&logoColor=white)
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-00599C?style=flat-the-badge&logo=security&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-the-badge&logo=splunk&logoColor=white)
 
 **Linguagens para Automação & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-the-badge&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-the-badge&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-the-badge&logo=powershell&log)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-the-badge&logo=gnu-bash&logoC)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-the-badge&logo=rust&logoColor=white)
