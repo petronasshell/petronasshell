@@ -7,11 +7,13 @@
 ![Bash / Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-the-badge&logo=gnu-bash&logoColor=white)
 
 **Ferramentas & Análise de Segurança**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-113151?style=flat-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-the-badge&logo=security&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-the-badge&logo=splunk&logoColor=white)
+![Hydra](https://img.shields.io/badge/THC_Hydra-000000?style=flat-the-badge&logo=security&logoColor=red)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-414141?style=flat-the-badge&logo=security&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF69B4?style=flat-the-badge&logo=security&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-00599C?style=flat-the-badge&logo=security&logoColor=white)
 
 **Linguagens para Automação & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-the-badge&logo=python&logoColor=white)
