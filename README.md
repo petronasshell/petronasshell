@@ -1,4 +1,4 @@
-## 🛡️ Cibersegurança & SecOps
+## 🛡️ Cybersecurity & SecOps
 
 **Operating and Environmental Systems**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-the-badge&logo=arch-linux&logoColor=white)
